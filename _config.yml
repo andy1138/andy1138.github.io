@@ -10,14 +10,14 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title :  Scala Swing Blog
+tagline: All things scala swing
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Andy Hicks
+  email : andy@hicks.net
+  github : andy1138
+  twitter : @andy1138
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
