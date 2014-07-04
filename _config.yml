@@ -13,7 +13,7 @@ markdown: kramdown
 title :  Scala Swing Blog
 tagline: All things scala swing
 author :
-  name : Andy Hicks
+  name : Andy
   email : andy@hicks.net
   github : andy1138
   twitter : andy1138
